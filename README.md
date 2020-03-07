@@ -1,6 +1,6 @@
 Pertama pastikan untuk mendownload dan menginstall aplikasi postman di https://www.postman.com
 
-Kemudian Buat file baru bernama kontak.php di dalam controllers lalu masukkan code seperti di bawah
+Kemudian buat file baru bernama kontak.php di dalam controllers lalu masukkan code seperti di bawah
 
 <?php
 
