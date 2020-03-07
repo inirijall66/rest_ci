@@ -70,5 +70,5 @@ class Kontak extends REST_Controller {
 ?>
 
 
-Setelah code diatas di simpan, buka aplikasi postman dengan alamat http://127.0.0.1/restci/index.php/kontak
+Setelah code diatas di simpan, buka aplikasi postman dengan alamat http://127.0.0.1/rest_ci/index.php/kontak
 pilih command get untuk menampilkan data, post untuk menambahkan data, put untuk mengedit data, delete untuk menghapus data
